@@ -24,10 +24,8 @@
         
         
         "links": {
-            "HelpDesk": "s-4609pw1-spice:9675/tickets/v2",
-            "GitHub Repo": "https://github.com/justinwalsh/daux.io",
-            "Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-            "Made by Todaymade": "http://todaymade.com"
+            "HelpDesk": "s-4609pw1-spice:9675/tickets/v2"
+            
         }
     }
 }
