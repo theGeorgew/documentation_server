@@ -10,7 +10,7 @@
 
 #### For Authors
 
-* [Addresses for Printers](01_Features/Printers.md)
+* [Addresses for Printers](01_Features/Printers_WIFI.md)
 * [Internal documentation links](01_Features/Internal_links.md)
 * [Github Flavored Markdown](01_Features/GitHub_Flavored_Markdown.md)
 * [Auto created homepage/landing page](01_Features/Landing_page.md)
