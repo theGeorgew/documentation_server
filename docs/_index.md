@@ -10,7 +10,7 @@
 
 #### For Authors
 
-* [Addresses for Printers](01_Features/Printers_WIFI.md)
+* [Addresses for Printers](01_Features/Printers_and_WIFI.md)
 * [Internal documentation links](01_Features/Internal_links.md)
 * [Github Flavored Markdown](01_Features/GitHub_Flavored_Markdown.md)
 * [Auto created homepage/landing page](01_Features/Landing_page.md)
@@ -25,7 +25,7 @@
 
 #### For Developers
 
-* [Auto Syntax Highlighting](01_Features/Auto_Syntax_Highlight.md)
+* [Computer Reformatting Instructions](01_Features/Computer_ReFormat.md)
 * [Extend Daux.io with Processors](01_For_Developers/Creating_a_Processor.md)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
