@@ -1,7 +1,7 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",
+    "title": "I duuno",
+    "tagline": "The Easiest Way To figure out what you dont remember.",
+    "author": "George Whiting",
     "image": "app.png",
     "ignore": {
             "files": ["Work_In_Progress.md"],
@@ -19,12 +19,12 @@
         "float": true,
         "inherit_index": true,
 
-        "repo": "justinwalsh/daux.io",
-        "edit_on_github": "justinwalsh/daux.io/blob/master/docs",
-        "twitter": ["justin_walsh", "todaymade"],
-        "google_analytics": "UA-12653604-10",
+        "repo": "glwpie/documentation_server",
+        "edit_on_github": "glwpie/documentation_server/blob/master/docs",
+        
+        
         "links": {
-            "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
+            "HelpDesk": "s-4609pw1-spice:9675/tickets/v2",
             "GitHub Repo": "https://github.com/justinwalsh/daux.io",
             "Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
             "Made by Todaymade": "http://todaymade.com"
