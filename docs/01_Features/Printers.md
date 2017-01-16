@@ -1,19 +1,19 @@
 
 ## printers
- 10.1.8.1 	 PRTED01	 	 ED Department
-	
- 10.1.8.2	 PRTLABLBL01	 	 Lab Label Printer 1
-	 			
- 10.1.8.3	 PRTLABLBL02	 	 Lab Label Printer 2
-	 			
- 10.1.8.4	 PRTRAD01	 	 RAD printer
-	 			
- 10.1.8.5	 PRTADMIT01	 	 Admitting room	
-		
- 10.1.8.6	 PRTEDADMIT01	 	 ED admit
-		 			
- 10.1.8.7	 PRTLAB01	 	 Laboratory print
-	
+
+Table o’ Printers
+-------------
+
+IP |  Name  | Location
+——-|:———————:|———————:
+10.1.8.1  | PRTED01 | ED Department
+10.1.8.2  | PRTLABLB01 |  Lab Label Printer 1
+10.1.8.3  | PRTLABLBL02 | Lab Label Printer 2			
+10.1.8.4 | PRTRAD01 | RAD printer 			
+10.1.8.5 | PRTADMIT01	| Admitting room
+10.1.8.6 | PRTEDADMIT01 | ED admit	 			
+10.1.8.7 | PRTLAB01 | Laboratory print
+10.1.8.19 |PRT7SCHED01 | Scheduling Office
 
 
 ## Sorting
