@@ -15,4 +15,4 @@ This guide will take you through the steps to reformatting a Desktop
       <!-- here goes the rest of the page -->
     </body>
 
-[See more examples of supported languages](../02_Examples/Code_Highlighting.md)
+
