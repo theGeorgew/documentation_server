@@ -1,9 +1,4 @@
-With the help of [highlight.js](https://highlightjs.org/) We can highlight more than 150 languages.
-
-To be precise, we support all languages supported by highlight.js `9.7.0`.
-
-Here is a quick example :
-
+This guide will take you through the steps to reformatting a Desktop
 **HTML (with inline css and javascript)**
 
     <!DOCTYPE html>
