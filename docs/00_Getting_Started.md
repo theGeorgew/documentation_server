@@ -1,12 +1,11 @@
-**Daux.io** is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
-
+<strong>Testv1 </strong> This will serve as a documentation repository for the IT Department.
 [TOC]
 
 ## Features
 
 ### For Authors
 
-* [Auto Generated Navigation / Page sorting](01_Features/Navigation_and_Sorting.md)
+* [Addresses for Printers](01_Features/Printers.md)
 * [Internal documentation links](01_Features/Internal_links.md)
 * [Github Flavored Markdown](01_Features/GitHub_Flavored_Markdown.md)
 * [Auto created homepage/landing page](01_Features/Landing_page.md)

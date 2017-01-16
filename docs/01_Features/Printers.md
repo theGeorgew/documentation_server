@@ -1,13 +1,20 @@
 
-## Navigation
+## printers
+ 10.1.8.1 	 PRTED01	 	 ED Department
+	
+ 10.1.8.2	 PRTLABLBL01	 	 Lab Label Printer 1
+	 			
+ 10.1.8.3	 PRTLABLBL02	 	 Lab Label Printer 2
+	 			
+ 10.1.8.4	 PRTRAD01	 	 RAD printer
+	 			
+ 10.1.8.5	 PRTADMIT01	 	 Admitting room	
+		
+ 10.1.8.6	 PRTEDADMIT01	 	 ED admit
+		 			
+ 10.1.8.7	 PRTLAB01	 	 Laboratory print
+	
 
-The navigation is generated automatically with all pages that end with `.md` or `.markdown`
-
-You can have as many sub levels as you wish.
-
-By default, a folder will have no index page.
-if you wish to have one defined all you need to do is add an `index.md` file to the folder.
-For example, `/docs/02_Examples` has a landing page for that section since there exists a `/docs/02_Examples/index.md` file.
 
 ## Sorting
 To sort your files and folders in a specific way, you can prefix them with a number and underscore, e.g. `/docs/01_Hello_World.md` and `/docs/05_Features.md` This will list *Hello World* before *Features*, overriding the default alpha-numeric sorting. The numbers will be stripped out of the navigation and urls. For the file `6 Ways to Get Rich`, you can use `/docs/_6_Ways_to_Get_Rich.md`
