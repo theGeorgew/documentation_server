@@ -2,7 +2,7 @@
     "title": "I duuno",
     "tagline": "The Easiest Way To figure out what you don’t remember.",
     "author": "George Whiting",
-    "image": "app.jpeg”,
+    "image": "app.png”,
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
