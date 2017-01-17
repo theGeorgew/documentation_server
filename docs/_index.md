@@ -1,5 +1,5 @@
 <p class="lead">
-	<strong>”I Dunno” </strong> This will serve as a documentation repository for the IT Department.
+	<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
 </p>
 
 <hr/>
@@ -10,8 +10,8 @@
 
 #### Desktop Support
 
-* [Addresses for Printers](01_Features/Printers_and_WIFI.md)
-* [Internal documentation links](01_Features/Internal_links.md)
+* [Printers and WIFI](01_Features/Printers_and_WIFI.md)
+* [Computer Reformat](01_Features/Computer_ReFormat.md)
 * [Github Flavored Markdown](01_Features/GitHub_Flavored_Markdown.md)
 * [Auto created homepage/landing page](01_Features/Landing_page.md)
 * [Multiple Output Formats](01_Features/Multiple_Output_Formats.md)
@@ -33,14 +33,16 @@
 </div>
 <div class=col-third>
 
-#### For Everything else (common links)
+## Hot Links
 
-* [spiceworks here]
-* [citrix here]
-* Functional, Flat Design Style
-* Optional code float layout
-* Shareable/Linkable SEO Friendly URLs
-* Supports Google Analytics and Piwik Analytics
+This is a list of sites commonly accessed:
+
+* [Spiceworks](http://s-4609pw1-spice:9675/pro_users/login#)
+* [Citrix](https://www.asp.siemensmedical.com/isc/10152/Citrix/AccessPlatform/auth/login.aspx)
+* [Healthstream](http://www.healthstream.com/hlc/whmc)
+* [VMware Admin](https://vdiview1/admin/?userLoggedOut=true#/pool/ProdClinical)
+* [FuseMail](https://mc.fusemail.com/)
+* [Impravata](https://vdiimpva1.whphdom.local/sso/administrator.html)
 
 </div>
 </div>
