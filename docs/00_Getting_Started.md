@@ -1,12 +1,12 @@
-<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
+<strong>Testv1 </strong> This will serve as a documentation repository for the IT Department.
 [TOC]
 
 ## Features
 
 ### For Desktop Support 
 
-* [Printers and WIFI](01_Features/Printers_and_WIFI.md)
-* [Computer Reformat](01_Features/Computer_ReFormat.md)
+* [Addresses for Printers](01_Features/Printers_and_WIFI.md)
+* [Internal documentation links](01_Features/Internal_links.md)
 * [Github Flavored Markdown](01_Features/GitHub_Flavored_Markdown.md)
 * [Auto created homepage/landing page](01_Features/Landing_page.md)
 * [Multiple Output Formats](01_Features/Multiple_Output_Formats.md)
@@ -21,7 +21,7 @@
 * [Extend Daux.io with Processors](01_For_Developers/Creating_a_Processor.md)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
-
+
 ### For Everything Else (common Links)
 
 * 100% Mobile Responsive
@@ -31,27 +31,25 @@
 * Shareable/Linkable SEO Friendly URLs
 * Supports Google Analytics and Piwik Analytics
 
-## Hot Links
+## Demos
 
-This is a list of sites commonly accessed:
+This is a list of sites using Daux.io:
 
-* [Spiceworks](http://s-4609pw1-spice:9675/pro_users/login#)
-* [Citrix](https://www.asp.siemensmedical.com/isc/10152/Citrix/AccessPlatform/auth/login.aspx)
-* [Healthstream](http://www.healthstream.com/hlc/whmc)
-* [VMware Admin](https://vdiview1/admin/?userLoggedOut=true#/pool/ProdClinical)
-* [FuseMail](https://mc.fusemail.com/)
-* [Impravata](https://vdiimpva1.whphdom.local/sso/administrator.html)
+* [Daux.io](http://daux.io)
+* [jDrupal](http://jdrupal.easystreet3.com/8/docs/)
+* [DrupalGap](http://docs.drupalgap.org/8/)
+* [Invade & Annex 3 - An Arma 3 Co-operative Mission](http://ia3.ahoyworld.co.uk/)
+* [Munee: Standalone PHP 5.3 Asset Optimisation & Manipulation](http://mun.ee)
+* [ICADMIN: An admin panel powered by CodeIgniter.](http://istocode.com/shared/ic-admin/)
 
-Do you use **I Dunno**? Send us a pull request or open an [issue](https://github.com/glwpie/documentation_server/issues) and I can add some features. (Probably?)
+Do you use Daux.io? Send us a pull request or open an [issue](https://github.com/justinwalsh/daux.io/issues) and I will add you to the list.
 
 ## Getting Started
 
+### Install
 
 ```
-# Different Environments
-[For Production] (https://stormy-cayman.herokuapp.com/). 
-[For Staging]    (https://stormy-macan.herokuapp.com/).
-	"This will always be freaky fresh"
+composer global require justinwalsh/daux.io
 ```
 
 You can then use the `daux` command line to generate your documentation.
