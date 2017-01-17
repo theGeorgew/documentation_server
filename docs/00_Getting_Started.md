@@ -22,7 +22,7 @@
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
 
-### For Everything Else
+### For Everything Else (common Links)
 
 * 100% Mobile Responsive
 * 4 Built-In Themes or roll your own

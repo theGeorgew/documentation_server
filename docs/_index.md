@@ -33,7 +33,7 @@
 </div>
 <div class=col-third>
 
-#### For Everything else (common links
+#### For Everything else (common links)
 
 * [spiceworks here]
 * 4 Built-In Themes or roll your own
