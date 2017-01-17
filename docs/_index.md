@@ -1,9 +1,9 @@
 <p class="lead">
-	<strong>Testv1 </strong> This will serve as a documentation repository for the IT Department.
+	<strong>”I Dunno” </strong> This will serve as a documentation repository for the IT Department.
 </p>
 
 <hr/>
-<h3> What is in here? Also, Why?</h3>
+<h3> What is in here? Also, Why? -because I have the attention span of a goldfish</h3>
 <hr/>
 <div class=row>
 <div class=col-third>
