@@ -33,9 +33,9 @@ IP |  Name  | Location
 ## WIFI Networks
 SSID | VLAN  | PSK
 ————-|:————————:|———————:	
- WHPHINT	 |  50	 |  26$Vva7515#eP
+ WHPHINT	 |  50	 |     Vv    #eP
  WHPHGUEST	 | 1	 |  WHPHGUEST
- WHPHVoice	 | 50	 |  26VvaWHPHmc$
- whphalaris	 | 50	 |  A1@risPump$
- WHPHMedDev	 | 50	 |  W#P#M39D3v
+ WHPHVoice	 | 50	 |  
+ whphalaris	 | 50	 |  
+ WHPHMedDev	 | 50	 |  
 WHPHAPPLETV	 | none	 |  whmcapple
