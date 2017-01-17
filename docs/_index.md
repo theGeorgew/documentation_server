@@ -36,7 +36,7 @@
 #### For Everything else (common links)
 
 * [spiceworks here]
-* 4 Built-In Themes or roll your own
+* [citrix here]
 * Functional, Flat Design Style
 * Optional code float layout
 * Shareable/Linkable SEO Friendly URLs
