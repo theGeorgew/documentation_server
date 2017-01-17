@@ -1,13 +1,10 @@
-![Enjoy this Unicorn](install_updates.jpeg)
+![Enjoy this classy stag](classy.jpeg)
 
-		This will take hours
-		Enjoy this Unicorn while you wait
+		If you’ve gotten this far, you’ll want a break
+		Enjoy this classy stag while you break
 
-* go to control panel  
-* sort by icons
-* WSUS 
-* Check for updates 
-* Wait
-* Install updates 
-* *Wait a long time*  
-* Do a couple restarts 
+* go to T:/Information_Technology/Impravata  
+* install OneSignAgent64
+* pick kiosk 
+* VDIimpva.whphdom.local
+* next & install
