@@ -33,9 +33,9 @@
 </div>
 <div class=col-third>
 
-#### For Everything else
+#### For Everything else (common links
 
-* 100% Mobile Responsive
+* [spiceworks here]
 * 4 Built-In Themes or roll your own
 * Functional, Flat Design Style
 * Optional code float layout
