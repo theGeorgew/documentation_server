@@ -3,7 +3,7 @@
 
 ## Features
 
-### For Authors
+### For Desktop Support 
 
 * [Addresses for Printers](01_Features/Printers_and_WIFI.md)
 * [Internal documentation links](01_Features/Internal_links.md)
@@ -15,14 +15,14 @@
 * [Static Output Generation](01_Features/Static_Site_Generation.md)
 * [Table of Contents](01_Features/Table_of_contents.md)
 
-### For Developers
+### For Clinicals
 
-* [Auto Syntax Highlighting](01_Features/Auto_Syntax_Highlight.md)
+* [Auto Syntax Highlighting](01_Features/Computer_ReFormat.md)
 * [Extend Daux.io with Processors](01_For_Developers/Creating_a_Processor.md)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
 
-### For Marketing
+### For Everything Else
 
 * 100% Mobile Responsive
 * 4 Built-In Themes or roll your own

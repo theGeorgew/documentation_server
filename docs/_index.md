@@ -8,7 +8,7 @@
 <div class=row>
 <div class=col-third>
 
-#### For Authors
+#### Desktop Support
 
 * [Addresses for Printers](01_Features/Printers_and_WIFI.md)
 * [Internal documentation links](01_Features/Internal_links.md)
@@ -23,7 +23,7 @@
 </div>
 <div class=col-third>
 
-#### For Developers
+#### For Clinicals
 
 * [Computer Reformatting Instructions](01_Features/Computer_ReFormat.md)
 * [Extend Daux.io with Processors](01_For_Developers/Creating_a_Processor.md)
@@ -33,7 +33,7 @@
 </div>
 <div class=col-third>
 
-#### For Marketing
+#### For Everything else
 
 * 100% Mobile Responsive
 * 4 Built-In Themes or roll your own
