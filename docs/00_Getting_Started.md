@@ -135,7 +135,3 @@ If you encounter an error similar to `utf8_decode() not found` this means that y
 
 - __Windows UTF-8 files support__ Files with UTF-8 characters cannot be handled on windows, this issue has no known fix yet.
 
-
-## Support
-
-If you need help using Daux.io, or have found a bug, please create an issue on the <a href="https://github.com/justinwalsh/daux.io/issues" target="_blank">GitHub repo</a>.
