@@ -1,0 +1,7 @@
+app:
+  build: codeship/stormy
+
+data:
+  image: busybox
+  volumes:
+    - ./tmp/data:/data
