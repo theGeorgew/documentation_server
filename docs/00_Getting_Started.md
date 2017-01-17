@@ -1,23 +1,23 @@
-<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
+01_Desktop<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
 [TOC]
 
 ## Features
 
 ### For Desktop Support 
 
-* [Printers and WIFI](01_Features/Printers_and_WIFI.md)
-* [Computer Reformat](01_Features/Computer_ReFormat.md)
-* [Github Flavored Markdown](01_Features/GitHub_Flavored_Markdown.md)
-* [Auto created homepage/landing page](01_Features/Landing_page.md)
-* [Multiple Output Formats](01_Features/Multiple_Output_Formats.md)
-* [Multiple Languages Support](01_Features/Multilanguage.md)
-* [No Build Step](01_Features/Live_mode.md)
-* [Static Output Generation](01_Features/Static_Site_Generation.md)
-* [Table of Contents](01_Features/Table_of_contents.md)
+* [Printers and WIFI](01_Desktop/Printers_and_WIFI.md)
+* [Computer Reformat](01_Desktop/Computer_ReFormat.md)
+* [Github Flavored Markdown](01_Desktop/GitHub_Flavored_Markdown.md)
+* [Auto created homepage/landing page](01_Desktop/Landing_page.md)
+* [Multiple Output Formats](01_Desktop/Multiple_Output_Formats.md)
+* [Multiple Languages Support](01_Desktop/Multilanguage.md)
+* [No Build Step](01_Desktop/Live_mode.md)
+* [Static Output Generation](01_Desktop/Static_Site_Generation.md)
+* [Table of Contents](01_Desktop/Table_of_contents.md)
 
 ### For Clinicals
 
-* [Auto Syntax Highlighting](01_Features/Computer_ReFormat.md)
+* [Auto Syntax Highlighting](01_Desktop/Computer_ReFormat.md)
 * [Extend Daux.io with Processors](01_For_Developers/Creating_a_Processor.md)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
@@ -99,7 +99,7 @@ You can use PHP's embedded web server by running the following command in the ro
 
 Upload your files to an apache / nginx server and see your documentation
 
-[More informations here](01_Features/Live_mode.md)
+[More informations here](01_Desktop/Live_mode.md)
 
 #### Export to other formats
 
@@ -109,11 +109,11 @@ Daux.io is extendable and comes by default with three export formats:
 - Export all documentation in a single HTML page
 - Upload to your Atlassian Confluence server.
 
-[See a detailed feature comparison matrix](01_Features/Multiple_Output_Formats.md)
+[See a detailed feature comparison matrix](01_Desktop/Multiple_Output_Formats.md)
 
 To export, run the `daux` command and your documentation will be generated in `static` (you can change the destination with the `--destination` option)
 
-[See here for all options](01_Features/Static_Site_Generation.md)
+[See here for all options](01_Desktop/Static_Site_Generation.md)
 
 ## Configuration
 
