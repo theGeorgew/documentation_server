@@ -19,7 +19,7 @@ Do you use **I Dunno**? Send us a pull request or open an [issue](https://github
 ```
 # Different Environments
 [For Production] (https://stormy-cayman.herokuapp.com/). 
-[For Staging]    (https://stormy-macan.herokuapp.com/).
+[For Staging]    (https://stormy-targa.herokuapp.com/).
 	"This will always be freaky fresh"
 ```
 
