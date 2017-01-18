@@ -1,19 +1,6 @@
 This guide will take you through the steps to reformatting a Computer
+
 **This works for laptops too**
-
-    <!DOCTYPE html>
-    <title>Title</title>
-
-    <style>body {width: 500px;}</style>
-
-    <script type="application/javascript">
-      function $init() {return true;}
-    </script>
-
-    <body>
-      <p checked class="title" id='title'>Title</p>
-      <!-- here goes the rest of the page -->
-    </body>
 
 **Lets Format!**
 ------------------------
@@ -41,7 +28,11 @@ This guide will take you through the steps to reformatting a Computer
 
 **Install some apps** (order doesn’t matter)
 ------------------------
-*  
+*  [VMware](App_Installs/Vmware)
+*  [Disable Ctrl Alt Delete](App_Installs/Disabe_Ctrl-Alt-Delete)
+*  [Install Updates](App_Installs/install_updates) 
+*  [Install Impravata](App_Installs/Install_Impravata)
+*  [Install Sophos](App_Installs/Install_Sophos)
 
 
 
