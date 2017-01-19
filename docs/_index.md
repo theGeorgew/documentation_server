@@ -25,7 +25,7 @@
 
 #### For EMR
 
-* [](EMR/Computer_ReFormat.md)
+* []()
 * [Extend Daux.io with Processors](For_Developers/Creating_a_Processor.md)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
