@@ -12,7 +12,7 @@
 
 * [Printers and WIFI](Desktop/Printers_and_WIFI.md)
 * [Computer Reformat](Desktop/Computer_ReFormat.md)
-* [Github Flavored Markdown](Desktop/GitHub_Flavored_Markdown.md)
+* [Thin Client Reimage](Desktop/thin_reimage.md)
 * [Auto created homepage/landing page](Desktop/Landing_page.md)
 * [Multiple Output Formats](Desktop/Multiple_Output_Formats.md)
 * [Multiple Languages Support](Desktop/Multilanguage.md)
