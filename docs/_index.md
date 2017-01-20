@@ -10,23 +10,23 @@
 
 #### Desktop Support
 
-* [Printers and WIFI](01_Desktop/Printers_and_WIFI.md)
-* [Computer Reformat](01_Desktop/Computer_ReFormat.md)
-* [Github Flavored Markdown](01_Desktop/GitHub_Flavored_Markdown.md)
-* [Auto created homepage/landing page](01_Desktop/Landing_page.md)
-* [Multiple Output Formats](01_Desktop/Multiple_Output_Formats.md)
-* [Multiple Languages Support](01_Desktop/Multilanguage.md)
-* [No Build Step](01_Desktop/Live_mode.md)
-* [Static Output Generation](01_Desktop/Static_Site_Generation.md)
-* [Table of Contents](01_Desktop/Table_of_contents.md)
+* [Printers and WIFI](Desktop/Printers_and_WIFI.md)
+* [Computer Reformat](Desktop/Computer_ReFormat.md)
+* [Github Flavored Markdown](Desktop/GitHub_Flavored_Markdown.md)
+* [Auto created homepage/landing page](Desktop/Landing_page.md)
+* [Multiple Output Formats](Desktop/Multiple_Output_Formats.md)
+* [Multiple Languages Support](Desktop/Multilanguage.md)
+* [No Build Step](Desktop/Live_mode.md)
+* [Static Output Generation](Desktop/Static_Site_Generation.md)
+* [Table of Contents](Desktop/Table_of_contents.md)
 
 </div>
 <div class=col-third>
 
-#### For Clinicals
+#### For EMR
 
-* [Computer Reformatting Instructions](01_Desktop/Computer_ReFormat.md)
-* [Extend Daux.io with Processors](01_For_Developers/Creating_a_Processor.md)
+* []()
+* [Extend Daux.io with Processors](For_Developers/Creating_a_Processor.md)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
 
