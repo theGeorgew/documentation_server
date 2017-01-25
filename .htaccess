@@ -19,5 +19,6 @@ Order Deny,Allow
 <Limit GET POST>
 order deny,allow
 #deny from all
-allow from 12.5.95.50
+Allow from 12.5.95.50
+Allow form 10.79.219.198
 </Limit>
