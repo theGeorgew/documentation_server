@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+\
+\
+# We support all major PHP versions. Please see our docs for a full list\
+# https://documentation.codeship.com/classic/languages-frameworks/php/\
+phpenv local 5.6\
+# Install extensions through Pecl\
+# yes yes | pecl install memcache\
+# Install dependencies through Composer\
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"\
+php -r "if (hash_file('SHA384', 'composer-setup.php') === '55d6ead61b29c7bdee5cccfb50076874187bd9f21f65d8991d46ec5cc90518f447387fb9f76ebae1fbbacf329e583e30') \{ echo 'Installer verified'; \} else \{ echo 'Installer corrupt'; unlink('composer-setup.php'); \} echo PHP_EOL;"\
+php composer-setup.php\
+php -r "unlink('composer-setup.php');"\
+composer install --prefer-source --no-interaction\
+composer global require justinwalsh/daux.io\
+export PATH=$PATH:~/.composer/vendor/bin\
+\
+daux --source=docs --destination=static}
