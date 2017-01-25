@@ -4,3 +4,8 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . index.php [L,QSA]
+
+Order Deny,Allow
+Deny from all
+Allow from 76.183.99.1
+Allow from walnuthillmc.com
