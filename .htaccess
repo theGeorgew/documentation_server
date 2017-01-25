@@ -22,4 +22,5 @@ Deny from all
 Allow from 12.5.95.50
 Allow from 10.79.219.198
 Allow from 52.23.241.26
+Allow from 96.31.33.34
 </Limit>
