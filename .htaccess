@@ -7,7 +7,7 @@ RewriteRule . index.php [L,QSA]
 
 #ErrorDocument 403 /err.html
 
-Order Deny,Allow
+#Order Deny,Allow
 #Deny from all
 #Allow from 76.183.99.1 76.183.99.254
 #Allow from 208.78.71.19
@@ -18,7 +18,8 @@ Order Deny,Allow
 #Allow from 12.5.95.50
 <Limit GET POST>
 Order Deny,Allow
-#deny from all
+Deny from all
 Allow from 12.5.95.50
-Allow form 10.79.219.198
+Allow from 10.79.219.198
+Allow from 52.23.241.26
 </Limit>
