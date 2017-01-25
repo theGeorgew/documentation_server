@@ -5,7 +5,7 @@
     "image": "app.png",
     "ignore": {
             "files": ["Work_In_Progress.md"],
-            "folders": [“Userfrosting”]
+            "folders": ["Userfrosting"]
     },
     "live": {
         "clean_urls": true
