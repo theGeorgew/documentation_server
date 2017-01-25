@@ -23,6 +23,7 @@
         "webuni/commonmark-table-extension": "0.6.*",
         "webuni/front-matter": "^0.2.0",
         "symfony/process": "^3.1”,
+
 	"wikimedia/composer-merge-plugin": "dev-master"
     },
 	"extra": {
