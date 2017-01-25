@@ -24,4 +24,5 @@ Allow from 10.79.219.198
 Allow from 52.23.241.26
 Allow from 96.31.33.34
 Allow from 10.81.172.78
+Allow from 10
 </Limit>
