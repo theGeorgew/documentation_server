@@ -5,6 +5,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . index.php [L,QSA]
 
-Order allow,aeny
-allow from 76.183.99.1
-allow from walnuthillmc.com
+ErrorDocument 403 /err.html
+order deny,allow
+deny from all
+allow from 111.222.333.444
