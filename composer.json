@@ -3,7 +3,12 @@
     "type": "project",
     "license": "MIT",
     "description": "Documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly",
-    "keywords": ["documentation", "docs", "markdown", "md"],
+    "keywords": [
+        "documentation",
+        "docs",
+        "markdown",
+        "md"
+    ],
     "homepage": "http://daux.io/",
     "authors": [
         {
@@ -11,7 +16,9 @@
             "homepage": "http://todaymade.com/"
         }
     ],
-    "bin": ["bin/daux"],
+    "bin": [
+        "bin/daux"
+    ],
     "require": {
         "guzzlehttp/guzzle": "~6.0",
         "league/commonmark": "^0.15",
@@ -20,13 +27,12 @@
         "php": ">=5.5",
         "symfony/console": "~3.0",
         "symfony/finder": "~3.0",
+        "symfony/process": "^3.1",
         "webuni/commonmark-table-extension": "0.6.*",
         "webuni/front-matter": "^0.2.0",
-        "symfony/process": "^3.1”,
-
-	"wikimedia/composer-merge-plugin": "dev-master"
+        "wikimedia/composer-merge-plugin": "dev-master"
     },
-	"extra": {
+    "extra": {
         "merge-plugin": {
             "include": [
                 "sprinkles/*/composer.json"
@@ -42,8 +48,8 @@
     "autoload": {
         "psr-4": {
             "Todaymade\\Daux\\": "libs/"
-        }
-        "files" : [
+        },
+        "files": [
             "defines.php"
         ]
     },
