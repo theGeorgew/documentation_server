@@ -18,6 +18,6 @@ Order Deny,Allow
 #Allow from 12.5.95.50
 <Limit GET POST>
 order deny,allow
-deny from all
+#deny from all
 allow from 12.5.95.50
 </Limit>
