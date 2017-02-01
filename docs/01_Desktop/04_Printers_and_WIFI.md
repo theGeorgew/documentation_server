@@ -35,7 +35,7 @@ SSID | VLAN  | PSK
 ————-|:————————:|———————:	
  WHPHINT	 |  50	 |     Vv    #eP
  WHPHGUEST	 | 1	 |  WHPHGUEST
- WHPHVoice	 | 50	 |  
+ WHPHVoice	 | 50	 |  26VvaWHPHmc$
  whphalaris	 | 50	 |  
  WHPHMedDev	 | 50	 |  
 WHPHAPPLETV	 | none	 |  whmcapple
