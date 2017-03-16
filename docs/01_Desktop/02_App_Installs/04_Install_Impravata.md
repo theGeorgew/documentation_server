@@ -6,5 +6,5 @@
 * go to T:/Information_Technology/Impravata  
 * install OneSignAgent64
 * pick kiosk 
-* VDIimpva.whphdom.local
+* VDIimpva1.whphdom.local
 * next & install
