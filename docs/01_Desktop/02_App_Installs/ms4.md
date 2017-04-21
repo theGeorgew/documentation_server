@@ -1,0 +1,13 @@
+to install ms4 S:\Information_Technology\Downloads\Siemens\IBM I Access for windows 64 bit v6r1
+click vcredist_x86_Run_FIRST
+run yes
+complete
+click vcredist_x64
+run 
+yes complete 
+open Image64a
+click setup
+ok
+next 
+next
+complete
