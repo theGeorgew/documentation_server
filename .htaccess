@@ -4,3 +4,25 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . index.php [L,QSA]
+
+#ErrorDocument 403 /err.html
+
+#Order Deny,Allow
+#Deny from all
+#Allow from 76.183.99.1 76.183.99.254
+#Allow from 208.78.71.19
+#Allow from 50.19.85.1 50.19.85.254
+#Allow from 184.73.218.0 184.73.218.254
+#Allow from heroku.com
+#Allow from 205.251.197.98
+#Allow from 12.5.95.50
+<Limit GET POST>
+Order Deny,Allow
+Deny from all
+Allow from 12.5.95.50
+Allow from 10.79.219.198
+Allow from 52.23.241.26
+Allow from 96.31.33.34
+Allow from 10.81.172.78
+Allow from 10
+</Limit>

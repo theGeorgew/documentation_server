@@ -14,7 +14,7 @@
 * [Computer Reformat](Desktop/Computer_ReFormat.md)
 * [Thin Client Reimage](Desktop/thin_reimage.md)
 * [How to Fix Busy Overhead Signal](Desktop/Busy_Overhead.md)
-* [Multiple Output Formats](Desktop/Multiple_Output_Formats.md)
+* [Faxcom Issues](Desktop/Faxcom.md)
 * [Multiple Languages Support](Desktop/Multilanguage.md)
 * [Static Output Generation](Desktop/Static_Site_Generation.md)
 * [Table of Contents](Desktop/Table_of_contents.md)
@@ -24,9 +24,8 @@
 
 #### For EMR
 
-* [Extend Daux.io with Processors](For_Developers/Creating_a_Processor.md)
-* Full access to the internal API to create new pages programatically
-* Work with pages metadata
+* TODO: Add documentation for EMR junk 
+
 
 </div>
 <div class=col-third>
@@ -44,9 +43,4 @@ This is a list of sites commonly accessed:
 
 </div>
 </div>
-
 <hr/>
-
-
-
-
