@@ -11,4 +11,4 @@ to pull encryption
 * uninstall sophos programs 
 * decyption takes forever
         Enjoy this Bird
-        ![Flight Risk]()
+        ![Flight Risk](ltn_194e369f0a0487bf88cd8a747006a63e20141227203334.jpeg)
