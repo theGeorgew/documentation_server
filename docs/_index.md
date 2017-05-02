@@ -16,7 +16,6 @@
 * [How to Fix Busy Overhead Signal](Desktop/Busy_Overhead.md)
 * [Faxcom Issues](Desktop/Faxcom.md)
 * [Multiple Languages Support](Desktop/Multilanguage.md)
-* [No Build Step](Desktop/Live_mode.md)
 * [Static Output Generation](Desktop/Static_Site_Generation.md)
 * [Table of Contents](Desktop/Table_of_contents.md)
 
@@ -26,6 +25,7 @@
 #### For EMR
 
 * TODO: Add documentation for EMR junk 
+
 
 </div>
 <div class=col-third>
