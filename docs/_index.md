@@ -15,9 +15,7 @@
 * [Thin Client Reimage](Desktop/thin_reimage.md)
 * [How to Fix Busy Overhead Signal](Desktop/Busy_Overhead.md)
 * [Faxcom Issues](Desktop/Faxcom.md)
-* [Multiple Languages Support](Desktop/Multilanguage.md)
-* [Static Output Generation](Desktop/Static_Site_Generation.md)
-* [Table of Contents](Desktop/Table_of_contents.md)
+* [Bistro Menu](Desktop/Bistro_menu.md)
 
 </div>
 <div class=col-third>
