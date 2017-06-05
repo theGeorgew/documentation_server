@@ -13,22 +13,17 @@
 * [Printers and WIFI](Desktop/Printers_and_WIFI.md)
 * [Computer Reformat](Desktop/Computer_ReFormat.md)
 * [Thin Client Reimage](Desktop/thin_reimage.md)
-* [Auto created homepage/landing page](Desktop/Landing_page.md)
-* [Multiple Output Formats](Desktop/Multiple_Output_Formats.md)
-* [Multiple Languages Support](Desktop/Multilanguage.md)
-* [No Build Step](Desktop/Live_mode.md)
-* [Static Output Generation](Desktop/Static_Site_Generation.md)
-* [Table of Contents](Desktop/Table_of_contents.md)
+* [How to Fix Busy Overhead Signal](Desktop/Busy_Overhead.md)
+* [Faxcom Issues](Desktop/Faxcom.md)
+* [Bistro Menu](Desktop/Bistro_Menu.md)
 
 </div>
 <div class=col-third>
 
 #### For EMR
 
-* []()
-* [Extend Daux.io with Processors](For_Developers/Creating_a_Processor.md)
-* Full access to the internal API to create new pages programatically
-* Work with pages metadata
+* TODO: Add documentation for EMR junk 
+
 
 </div>
 <div class=col-third>
@@ -46,9 +41,4 @@ This is a list of sites commonly accessed:
 
 </div>
 </div>
-
 <hr/>
-
-
-
-

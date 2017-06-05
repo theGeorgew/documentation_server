@@ -33,7 +33,7 @@ This guide will take you through the steps to reformatting a Computer
 *  [Install Updates](App_Installs/install_updates) 
 *  [Install Impravata](App_Installs/Install_Impravata)
 *  [Install Sophos](App_Installs/Install_Sophos)
-
+*  [Install MS$](App_Installs/MS4)
 
 
 
