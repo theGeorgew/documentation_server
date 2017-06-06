@@ -1,6 +1,8 @@
 <?php namespace Todaymade\Daux\Format\Confluence;
 
 use Todaymade\Daux\Format\Base\EmbedImages;
+use Todaymade\Daux\Tree\ComputedRaw;
+use Todaymade\Daux\Tree\Entry;
 use Todaymade\Daux\Tree\Raw;
 
 class ContentPage extends \Todaymade\Daux\Format\Base\ContentPage
