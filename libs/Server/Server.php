@@ -60,7 +60,12 @@ class Server
             return;
         }
 
-        header('Content-type: text/html; charset=utf-8');
+        if ($page instanceof ComputedRawPage) {
+            header('Content-type: ' . MimeType::get($page->getFilename()));
+        } else {
+            header('Content-type: text/html; charset=utf-8');
+        }
+
         echo $page->getContent();
     }
 
