@@ -1,0 +1,12 @@
+{
+    "confluence": {
+        "base_url": "https://eureka.bank.swissquote.ch/",
+        "user": "dev.eureka",
+        "pass": "ntze2014",
+        "space_id": "~dev.eureka",
+        "ancestor_id": 50370685,
+        "prefix": "[NS]",
+        "delete": false,
+        "header": "These pages are updated automatically, your changes will be overriden."
+    }
+}
