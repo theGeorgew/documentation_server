@@ -3,7 +3,7 @@
 </p>
 
 <hr/>
-<h3> What is in here? Also, Why? -because I have the attention span of a goldfish</h3>
+<h3> What is in here? Also, Why? -because IT people have the attention span of a goldfish</h3>
 <hr/>
 <div class=row>
 <div class=col-third>
