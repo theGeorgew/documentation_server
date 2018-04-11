@@ -1,7 +1,7 @@
 to pull encryption 
 
 * bypass sophos sysadmin-loc
-* PASS $v
+* PASS (redacted)
 * domain <poa>
 * uncheck passthrough
 * need domain admin to login
