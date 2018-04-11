@@ -33,9 +33,9 @@ IP |  Name  | Location | Machine ID
 ## WIFI Networks
 SSID | VLAN  | PSK
 ————-|:————————:|———————:	
- WHPHINT	 |  50	 |     Vv    #eP
- WHPHGUEST	 | 1	 |  WHPHGUEST
- WHPHVoice	 | 50	 |  26VvaWHPHmc$
+ WHPHINT	 |  50	 |  Redacted, lol
+ WHPHGUEST	 | 1	 |  WHPHGUEST - I'll leave this one
+ WHPHVoice	 | 50	 |  Redacted, duh
  whphalaris	 | 50	 |  
  WHPHMedDev	 | 50	 |  
 WHPHAPPLETV	 | none	 |  whmcapple
