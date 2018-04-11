@@ -1,5 +1,6 @@
-This guide will take you through the steps to reformatting a Computer
-
+This guide will take you through the steps to reformatting a Computer 
+This guide assusmes you are a domain admin or have domain join privlages
+This guide is now for legacy hardware, but lets face it, evrything here is old.  
 **This works for laptops too**
 
 **Lets Format!**
@@ -17,7 +18,7 @@ This guide will take you through the steps to reformatting a Computer
 * Delete Disk Partition 2 & 3
 * Username: user2
 * Next
-* password: 26$Vv7515
+* password: redacted
 * Hint: Vv
 * Accept Terms
 * Use Recommended Settings
