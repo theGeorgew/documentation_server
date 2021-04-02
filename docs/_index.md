@@ -1,5 +1,5 @@
 <p class="lead">
-	<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
+	<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department
 </p>
 
 <hr/>
